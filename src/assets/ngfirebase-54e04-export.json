@@ -1,0 +1,22 @@
+{
+  "employees" : {
+    "-LOhVZD4lPhXn9pX4AsH" : {
+      "name" : "Aarush Deshmukh",
+      "office" : "Pune",
+      "position" : "Manager",
+      "salary" : "1500000"
+    },
+    "-LOiNWro3jOhlVOUBrWi" : {
+      "name" : "Snehal Deshmukh",
+      "office" : "Pune",
+      "position" : "Software QA Engineer Lead",
+      "salary" : "1200000"
+    },
+    "-LOiNm59c1C0Xl5hWOt1" : {
+      "name" : "Ravi Deshmukh",
+      "office" : "Pune",
+      "position" : "Software Engineer",
+      "salary" : "1300000"
+    }
+  }
+}
